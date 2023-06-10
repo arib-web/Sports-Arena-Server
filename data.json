@@ -1,83 +1,58 @@
 [
   {
-    "id": 1,
-    "image": "path/to/image1.jpg",
-    "name": "Class 1",
-    "instructorName": "Instructor 1",
+    "image": "https://i.ibb.co/S52XMyw/pexels-inderjeet-kashyap-9393464.jpg",
+    "class-name": "Cricket",
+    "instructorName": "Olivia Turner",
     "availableSeats": 20,
     "price": 10,
     "students": 50
   },
   {
-    "id": 2,
-    "image": "path/to/image2.jpg",
-    "name": "Class 2",
-    "instructorName": "Instructor 2",
+    "image": "https://i.ibb.co/X4VRyvb/pexels-kampus-production-8941640.jpg",
+    "class-name": "FootBall",
+    "instructorName": "Ethan Mitchell",
     "availableSeats": 15,
     "price": 15,
     "students": 45
   },
   {
-    "id": 3,
-    "image": "path/to/image3.jpg",
-    "name": "Class 3",
-    "instructorName": "Instructor 3",
+    "image": "https://i.ibb.co/WgZw0c0/pexels-yan-krukau-8617582.jpg",
+    "class-name": "FoosBall",
+    "instructorName": "Sophia Reynolds",
     "availableSeats": 25,
     "price": 12,
     "students": 40
   },
   {
-    "id": 4,
-    "image": "path/to/image4.jpg",
-    "name": "Class 4",
-    "instructorName": "Instructor 4",
+    "image": "https://i.ibb.co/gyfH3Xn/pexels-anastasia-shuraeva-8466017.jpg",
+    "class-name": "Chess",
+    "instructorName": "Jackson Foster",
     "availableSeats": 18,
     "price": 8,
     "students": 35
   },
   {
-    "id": 5,
-    "image": "path/to/image5.jpg",
-    "name": "Class 5",
-    "instructorName": "Instructor 5",
+    "image": "https://i.ibb.co/1qvdgJp/pexels-roman-castillo-16020811.jpg",
+    "class-name": "Baseball",
+    "instructorName": "Ava Carter",
     "availableSeats": 12,
     "price": 20,
     "students": 30
   },
   {
-    "id": 6,
-    "image": "path/to/image6.jpg",
-    "name": "Class 6",
-    "instructorName": "Instructor 6",
+    "image": "https://i.ibb.co/Bty11Wd/pexels-ron-lach-10643696.jpg",
+    "class-name": "BasketBall",
+    "instructorName": "Liam Peterson",
     "availableSeats": 30,
     "price": 18,
     "students": 25
   },
   {
-    "id": 7,
-    "image": "path/to/image7.jpg",
-    "name": "Class 7",
-    "instructorName": "Instructor 7",
+    "image": "https://i.ibb.co/1QnCvyN/pexels-john-torcasio-1568874.jpg",
+    "class-name": "American Football",
+    "instructorName": "Mia Bennett",
     "availableSeats": 22,
     "price": 14,
     "students": 20
-  },
-  {
-    "id": 8,
-    "image": "path/to/image8.jpg",
-    "name": "Class 8",
-    "instructorName": "Instructor 8",
-    "availableSeats": 20,
-    "price": 16,
-    "students": 15
-  },
-  {
-    "id": 9,
-    "image": "path/to/image9.jpg",
-    "name": "Class 9",
-    "instructorName": "Instructor 9",
-    "availableSeats": 25,
-    "price": 12,
-    "students": 10
   }
 ]

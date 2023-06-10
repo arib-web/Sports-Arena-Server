@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "image": "path/to/image1.jpg",
+    "name": "Class 1",
+    "instructorName": "Instructor 1",
+    "availableSeats": 20,
+    "price": 10,
+    "students": 50
+  },
+  {
+    "id": 2,
+    "image": "path/to/image2.jpg",
+    "name": "Class 2",
+    "instructorName": "Instructor 2",
+    "availableSeats": 15,
+    "price": 15,
+    "students": 45
+  },
+  {
+    "id": 3,
+    "image": "path/to/image3.jpg",
+    "name": "Class 3",
+    "instructorName": "Instructor 3",
+    "availableSeats": 25,
+    "price": 12,
+    "students": 40
+  },
+  {
+    "id": 4,
+    "image": "path/to/image4.jpg",
+    "name": "Class 4",
+    "instructorName": "Instructor 4",
+    "availableSeats": 18,
+    "price": 8,
+    "students": 35
+  },
+  {
+    "id": 5,
+    "image": "path/to/image5.jpg",
+    "name": "Class 5",
+    "instructorName": "Instructor 5",
+    "availableSeats": 12,
+    "price": 20,
+    "students": 30
+  },
+  {
+    "id": 6,
+    "image": "path/to/image6.jpg",
+    "name": "Class 6",
+    "instructorName": "Instructor 6",
+    "availableSeats": 30,
+    "price": 18,
+    "students": 25
+  },
+  {
+    "id": 7,
+    "image": "path/to/image7.jpg",
+    "name": "Class 7",
+    "instructorName": "Instructor 7",
+    "availableSeats": 22,
+    "price": 14,
+    "students": 20
+  },
+  {
+    "id": 8,
+    "image": "path/to/image8.jpg",
+    "name": "Class 8",
+    "instructorName": "Instructor 8",
+    "availableSeats": 20,
+    "price": 16,
+    "students": 15
+  },
+  {
+    "id": 9,
+    "image": "path/to/image9.jpg",
+    "name": "Class 9",
+    "instructorName": "Instructor 9",
+    "availableSeats": 25,
+    "price": 12,
+    "students": 10
+  }
+]

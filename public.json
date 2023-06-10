@@ -1,0 +1,59 @@
+{
+    "class1": {
+      "id": 1,
+      "image": "path/to/image1.jpg",
+      "name": "Class 1",
+      "instructorName": "Instructor 1",
+      "availableSeats": 20,
+      "price": 10
+    },
+    "class2": {
+      "id": 2,
+      "image": "path/to/image2.jpg",
+      "name": "Class 2",
+      "instructorName": "Instructor 2",
+      "availableSeats": 15,
+      "price": 15
+    },
+    "class3": {
+      "id": 3,
+      "image": "path/to/image3.jpg",
+      "name": "Class 3",
+      "instructorName": "Instructor 3",
+      "availableSeats": 25,
+      "price": 12
+    },
+    "class4": {
+      "id": 4,
+      "image": "path/to/image4.jpg",
+      "name": "Class 4",
+      "instructorName": "Instructor 4",
+      "availableSeats": 18,
+      "price": 8
+    },
+    "class5": {
+      "id": 5,
+      "image": "path/to/image5.jpg",
+      "name": "Class 5",
+      "instructorName": "Instructor 5",
+      "availableSeats": 12,
+      "price": 20
+    },
+    "class6": {
+      "id": 6,
+      "image": "path/to/image6.jpg",
+      "name": "Class 6",
+      "instructorName": "Instructor 6",
+      "availableSeats": 30,
+      "price": 18
+    },
+    "class7": {
+      "id": 7,
+      "image": "path/to/image7.jpg",
+      "name": "Class 7",
+      "instructorName": "Instructor 7",
+      "availableSeats": 22,
+      "price": 14
+    }
+  }
+  

@@ -30,12 +30,13 @@ async function run() {
 
 
         const classesCollections = client.db('sportsArenaDB').collection('classes');
+        const cartsCollections = client.db('sportsArenaDB').collection('carts');
 
         app.get('/classes', async (req, res) => {
             const result = await classesCollections.find().toArray();
             res.send(result);
         })
-        app.post('/classes', async (req, res) => {
+        app.post('/carts', async (req, res) => {
             const item = req.body;
             const result = await classesCollections.insertOne(item);
             res.send(result);

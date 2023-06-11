@@ -36,9 +36,19 @@ async function run() {
             const result = await classesCollections.find().toArray();
             res.send(result);
         })
+        // carts related apii 
+        app.get('/carts', async (req, res) => {
+            const email = req.query.email;
+            if (!email) {
+              res.send([]);
+            }
+            const query = { email: email }
+            const result = await cartsCollections.find(query).toArray();
+            res.send(result);
+          })
         app.post('/carts', async (req, res) => {
             const item = req.body;
-            const result = await classesCollections.insertOne(item);
+            const result = await cartsCollections.insertOne(item);
             res.send(result);
         })
 

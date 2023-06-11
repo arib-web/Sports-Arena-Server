@@ -28,13 +28,18 @@ async function run() {
         // Connect the client to the server	(optional starting in v4.7)
         await client.connect();
 
-        
+
         const classesCollections = client.db('sportsArenaDB').collection('classes');
 
         app.get('/classes', async (req, res) => {
             const result = await classesCollections.find().toArray();
             res.send(result);
-          })
+        })
+        app.post('/classes', async (req, res) => {
+            const item = req.body;
+            const result = await classesCollections.insertOne(item);
+            res.send(result);
+        })
 
         // Send a ping to confirm a successful connection
         await client.db("admin").command({ ping: 1 });
